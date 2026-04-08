@@ -1,7 +1,9 @@
+import PaginaCliente from "./pages/PaginaCliente";
+
 function App() {
   return (
     <div>
-      <h1>TurnosYa</h1>
+      <PaginaCliente />
     </div>
   );
 }
